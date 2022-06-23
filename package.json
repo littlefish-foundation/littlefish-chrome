@@ -1,0 +1,22 @@
+{
+  "name": "littlefish",
+  "version": "1.0.0",
+  "description": "littlefish Foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlefish-foundation/littlefish-chrome.git"
+  },
+  "keywords": [
+    "littlefish"
+  ],
+  "author": "Cem Karaca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littlefish-foundation/littlefish-chrome/issues"
+  },
+  "homepage": "https://github.com/littlefish-foundation/littlefish-chrome#readme"
+}
