@@ -3,6 +3,9 @@
     "description": "Everything you imagine is real.",
     "version": "1.0",
     "manifest_version": 3,
+    "permissions": [
+        "bookmarks"
+      ],
     "icons": {
         "16": "icons/icon_16.png",
         "32": "icons/icon_32.png",
